@@ -12,7 +12,7 @@
         {
           "category": "ArducamPico4ML",
           "name": "ArducamPico4ML/RP2040",
-          "url": "https://github.com/ArduCAM/RPI-Pico-Cam/releases/download/pico4ML_v1.0/1.0.zip",  
+          "url": "https://github.com/geoeo/RP-PICO-2040/releases/download/pico4ML_v1.0/1.0.zip",  
           "version": "1.0",
           "architecture": "rp2040",
           "archiveFileName": "1.0.zip",
