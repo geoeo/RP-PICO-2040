@@ -3,10 +3,10 @@
     {
       "name": "rp2040",
       "maintainer": "Arducam",
-      "websiteURL": "https://github.com/ArduCAM/RPI-Pico-Cam",
+      "websiteURL": "https://github.com/geoeo/RP-PICO-2040",
       "email": "support@arducam.com",
       "help": {
-        "online": "https://github.com/ArduCAM/RPI-Pico-Cam"
+        "online": "https://github.com/geoeo/RP-PICO-2040"
       },
       "platforms": [
         {
